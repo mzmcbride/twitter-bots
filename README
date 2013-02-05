@@ -1,0 +1,7 @@
+Silly Twitter bots.
+
+Dependencies:
+* Python
+** twitter module (<https://github.com/sixohsix/twitter>)
+
+License information is available in the LICENSE file.
