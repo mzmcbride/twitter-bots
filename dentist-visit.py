@@ -16,7 +16,7 @@ poster = Twitter(auth=OAuth(oauth_token,
                             settings.consumer_key,
                             settings.consumer_secret),
                  secure=True,
-                 api_version='1',
+                 api_version='1.1',
                  domain='api.twitter.com')
 
 # Twitter blocks duplicate posts, so try up to ten times.
